@@ -1,0 +1,2 @@
+# demo
+Demo fyrir forritun
